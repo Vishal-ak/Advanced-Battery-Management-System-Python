@@ -1,0 +1,7 @@
+Command: python -m pytest -q
+Exit code: 1
+
+STDOUT:
+
+STDERR:
+/usr/local/bin/python3: No module named pytest
